@@ -4,4 +4,4 @@ from pygame import mixer
 
 mixer.init()
 mixer.music.load('assets/media/sonican-thinking-time-ticking-power-223023.mp3')
-mixer.music.play
+mixer.music.play()
